@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Nils\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_DarkRift2_Test.1658921233.00" t="ExcludeRecursive" />
+    <e p="D:\Documents\Projects\Unity\DarkRift2_Test" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="DarkRift" t="Include">
+          <e p="1 ChatDemo" t="Include">
+            <e p="ChatDemo.cs" t="Include" />
+            <e p="ReadMe.txt" t="Include" />
+          </e>
+          <e p="2 DragDemo" t="Include">
+            <e p="DragObject.cs" t="Include" />
+            <e p="ReadMe.txt" t="Include" />
+          </e>
+          <e p="3 BlockDemo" t="Include">
+            <e p="BlockCharacter.cs" t="Include" />
+            <e p="BlockCharacterManager.cs" t="Include" />
+            <e p="BlockNetworkCharacter.cs" t="Include" />
+            <e p="BlockPlayerSpawner.cs" t="Include" />
+            <e p="BlockTags.cs" t="Include" />
+            <e p="BlockWorld.cs" t="Include" />
+            <e p="FirstPersonController.cs" t="Include" />
+            <e p="MouseLook.cs" t="Include" />
+            <e p="ReadMe.txt" t="Include" />
+          </e>
+          <e p="DarkRift" t="Include">
+            <e p="Plugins" t="Include">
+              <e p="Client" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="UnityClientEditor.cs" t="Include" />
+                </e>
+                <e p="UnityClient.cs" t="Include" />
+              </e>
+              <e p="DarkRift.xml" t="Include" />
+              <e p="Server" t="Include">
+                <e p="DarkRift.Server.xml" t="Include" />
+                <e p="Editor" t="Include">
+                  <e p="UnityServerEditor.cs" t="Include" />
+                </e>
+                <e p="UnityConsoleLogWriter.cs" t="Include" />
+                <e p="UnityServer.cs" t="Include" />
+                <e p="UnityServerHelper.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="ReadMe.txt" t="Include" />
+        </e>
+      </e>
+      <e p="DarkRift2_Test.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

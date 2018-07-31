@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/DarkRift/3 BlockDemo/BlockDemo.unity
+  isLoaded: 1
+  isActive: 1

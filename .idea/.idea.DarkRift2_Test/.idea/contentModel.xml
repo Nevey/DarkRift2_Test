@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Nils\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_DarkRift2_Test.1658921233.00" t="ExcludeRecursive" />
-    <e p="D:\Documents\Projects\Unity\DarkRift2_Test" t="IncludeRecursive">
+    <e p="C:\Users\itsju\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_DarkRift2_Test.581974043.00" t="ExcludeRecursive" />
+    <e p="D:\Unity\Projects\DarkRift2_Test" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
@@ -47,6 +47,15 @@
             </e>
           </e>
           <e p="ReadMe.txt" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="AgarObject.cs" t="Include" />
+          <e p="CameraFollow.cs" t="Include" />
+          <e p="MouseController.cs" t="Include" />
+          <e p="Networking" t="Include">
+            <e p="PlayerSpawner.cs" t="Include" />
+            <e p="Tags.cs" t="Include" />
+          </e>
         </e>
       </e>
       <e p="DarkRift2_Test.sln" t="IncludeFlat" />
